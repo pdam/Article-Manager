@@ -1,0 +1,19 @@
+<?php
+    //API Key - see http://admin.mailchimp.com/account/api
+    $apikey = '10714a6eca58e14a77865dcf51a36b36';
+    
+    // A List Id to run examples against. use lists() to view all
+    // Also, login to MC account, go to List, then List Tools, and look for the List ID entry
+    $listId = '94113'  ;    //YOUR MAILCHIMP LIST ID - see lists() method';
+    
+    // A Campaign Id to run examples against. use campaigns() to view all
+    $campaignId = '270365';
+
+    //some email addresses used in the examples:
+    $my_email = 'pdam.2010@gmail.com';
+    $boss_man_email = 'pdam.2010@gmail.com';
+
+    //just used in xml-rpc examples
+    $apiUrl = 'http://api.mailchimp.com/1.3/';
+    
+?>

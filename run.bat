@@ -1,0 +1,1 @@
+c:\Python27\python    NewsLetterUtil.py --blogger_email pdam.2010@gmail.com  --blogger_password  Spmprx12345   --insta_user kabir.seth@gmail.com --insta_password instaseth  --mailchimp_user   kdawg2332 --mailchimp_password chimpseth1   --postdir  c:/Users/pdam/Desktop/Kabir_Newsletter/postDir --create_newsletter  True

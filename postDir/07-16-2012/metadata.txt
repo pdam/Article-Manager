@@ -1,0 +1,14 @@
+[insta]
+article_name: Mitts British Blunders: How It Played In The UK Press
+article_url:http://2012.talkingpointsmemo.com/2012/07/romney-london-olympics-gaffes.php
+article_title:Mitts British Blunders: How It Played In The UK Press
+
+[blogger]
+
+article_category:Politics
+article_name: Mitts British Blunders: How It Played In The UK Press
+article_title:  Mitts British Blunders: How It Played In The UK Press
+article_comment:  
+
+
+[mailchimp]
